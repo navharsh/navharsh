@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+I'm Navharsh, a fullstack developer and college school student. <br>
+Feel free to talk to me about Web dev, Python, Linux, Tech , music or any cool stuff.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c,linux,)](https://skillicons.dev)
+
+[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://navharsh.bio.link)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/navharsh_kr)
+
 <!--
 **Navharsh-Kr/Navharsh-Kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
