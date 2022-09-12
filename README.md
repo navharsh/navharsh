@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Navharsh, a fullstack developer and college school student. <br>
+I'm Navharsh, a fullstack developer and college student. <br>
 Feel free to talk to me about Web dev, Python, Linux, Tech , music or any cool stuff.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c,linux,)](https://skillicons.dev)
