@@ -5,10 +5,7 @@
 ### About Me:
 
 - Web Developer<!--, B.Sc Graduate & CS Student. -->
-- I also make themes for the TelegramX app on android and publish them on [my channel here](https://telegram.me/MilindGoel15TgXThemes).
-- I have also done video editing for [my YouTube Channel](https://www.youtube.com/milindgoel15) and [Education channel](https://www.youtube.com/NeetuGuptaClasses).
-- I also have a deep interest in installing Custom ROMs, rooting, Substratum/Swift theming, etc...
-- I listen to different kinds of music(NCS, Chill, Ambient, Punjabi, Hindi & English) on [Spotify](https://open.spotify.com/playlist/39EzsLVomjolBfWYAd6Tw3).
+- I love reading books and listening to songs of differnt genres.
 
 ---
 
