@@ -44,7 +44,7 @@
 ###  Social accounts:
 [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://telegram.me/navharsh)
 [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/navharsh_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/navharsh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23282a36?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/navharsh)
 
 
 ---
