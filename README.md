@@ -48,7 +48,6 @@
 [![Navharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=navharsh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
----
 <details>
   <summary>:zap:Recent GitHub Activity</summary>
 
