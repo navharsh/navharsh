@@ -1,15 +1,10 @@
 ## Hi👋, I'm Navharsh
-
 ---
-
 ### About Me:
 
 - Web Developer<!--, B.Sc Graduate & CS Student. -->
-- I love reading books and listening to songs of differnt genres.
-
----
-
-### Spotify Playing :
+- I love reading books and listening to songs of various generes and cultures.
+#### Currently Playing 🎧:
 [![Spotify](https://nav-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s)
 
 
