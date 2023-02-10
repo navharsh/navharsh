@@ -10,7 +10,7 @@
 ---
 
 ### Spotify Playing :
-[![Spotify](https://navharsh.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s)
+[![Spotify](https://nav-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s)
 
 
 
