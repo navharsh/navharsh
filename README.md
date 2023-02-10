@@ -1,5 +1,7 @@
 ## Hi👋, I'm Navharsh
+
 ---
+
 ### About Me:
 
 - Web Developer<!--, B.Sc Graduate & CS Student. -->
@@ -40,12 +42,17 @@
 
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-### GitHub Stats and activity
 [![Navharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=navharsh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 ---
-### ⚡Recent Activity
+<details>
+  <summary>:zap:Recent GitHub Activity</summary>
+
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 2. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
@@ -53,6 +60,7 @@
 4. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 5. ❗️ Opened issue [#6718](https://github.com/EddieHubCommunity/support/issues/6718) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
+</details>
 
 ---
 
