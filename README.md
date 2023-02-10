@@ -45,7 +45,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Navharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=navharsh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Navharsh's GitHub stats](https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
