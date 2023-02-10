@@ -43,13 +43,12 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats and activity
 [![Navharsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=navharsh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### Most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navharsh&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+### ⚡Recent Activity
+<!--START_SECTION:activity-->
 
 ---
 
