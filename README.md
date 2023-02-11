@@ -43,14 +43,16 @@
 
 ---
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
-[![Navharsh's GitHub stats](https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  <summary>:zap: GitHub Stats</summary>
+<br>
+
+[![Navharsh's GitHub stats](https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) &emsp;
+[![Top Langs](https://github-readme-stats-pearl-rho.vercel.app/api/top-langs/?username=navharsh&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
   <summary>:zap:Recent GitHub Activity</summary>
-
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#397](https://github.com/Tech-Phantoms/community/issues/397) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
