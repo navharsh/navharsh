@@ -53,11 +53,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Opened issue [#397](https://github.com/Tech-Phantoms/community/issues/397) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
 2. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 3. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 4. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❗️ Opened issue [#6718](https://github.com/EddieHubCommunity/support/issues/6718) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 </details>
 
