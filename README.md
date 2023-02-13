@@ -1,19 +1,15 @@
 ## Hi👋, I'm Navharsh
 
----
 
 ### About Me:
 
 - Web Developer<!--, B.Sc Graduate & CS Student. -->
 - I love reading books and listening to songs of various generes and cultures.
 #### Currently Playing 🎧:
-[![Spotify](https://nav-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s)
-
-
-
+  [![Spotify](https://nav-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s)
 ---
 
-### Software & Technologies:
+## Software & Technologies:
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,26 +29,29 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
----
+<!-- ---
 
 ###  Social accounts:
 [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://telegram.me/navharsh)
 [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/navharsh_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23282a36?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/navharsh)
 
+ -->
+---
+## My Statistics :
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+
+  <p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api/top-langs/?username=navharsh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <br>
+
+</p>
+<!-- [![Navharsh's GitHub stats](https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) &emsp;
+[![Top Langs](https://github-readme-stats-pearl-rho.vercel.app/api/top-langs/?username=navharsh&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
-<details>
-
-  <summary>:zap: GitHub Stats</summary>
-<br>
-
-[![Navharsh's GitHub stats](https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) &emsp;
-[![Top Langs](https://github-readme-stats-pearl-rho.vercel.app/api/top-langs/?username=navharsh&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-<details>
-  <summary>:zap:Recent GitHub Activity</summary>
+## Recent Activity :
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#397](https://github.com/Tech-Phantoms/community/issues/397) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
@@ -61,7 +60,6 @@
 4. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 5. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
-</details>
 
 ---
 
