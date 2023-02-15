@@ -53,11 +53,11 @@
 ## Recent Activity :
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#68](https://github.com/devstrons/support/issues/68) in [devstrons/support](https://github.com/devstrons/support)
-2. 🎉 Merged PR [#1](https://github.com/navharsh/qr-code-component/pull/1) in [navharsh/qr-code-component](https://github.com/navharsh/qr-code-component)
-3. 💪 Opened PR [#1](https://github.com/navharsh/qr-code-component/pull/1) in [navharsh/qr-code-component](https://github.com/navharsh/qr-code-component)
-4. ❗️ Opened issue [#397](https://github.com/Tech-Phantoms/community/issues/397) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
-5. 🗣 Commented on [#4558](https://github.com/EddieHubCommunity/LinkFree/issues/4558) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🎉 Merged PR [#1](https://github.com/navharsh/Dopefolio/pull/1) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
+2. 💪 Opened PR [#1](https://github.com/navharsh/Dopefolio/pull/1) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
+3. ❌ Closed PR [#30](https://github.com/rammcodes/Dopefolio/pull/30) in [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio)
+4. 🗣 Commented on [#30](https://github.com/rammcodes/Dopefolio/issues/30) in [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio)
+5. 💪 Opened PR [#30](https://github.com/rammcodes/Dopefolio/pull/30) in [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio)
 <!--END_SECTION:activity-->
 
 ---
