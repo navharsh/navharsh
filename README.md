@@ -53,11 +53,11 @@
 ## Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/navharsh/Dopefolio/pull/1) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
-2. 💪 Opened PR [#1](https://github.com/navharsh/Dopefolio/pull/1) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
-3. ❌ Closed PR [#30](https://github.com/rammcodes/Dopefolio/pull/30) in [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio)
-4. 🗣 Commented on [#30](https://github.com/rammcodes/Dopefolio/issues/30) in [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio)
-5. 💪 Opened PR [#30](https://github.com/rammcodes/Dopefolio/pull/30) in [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio)
+1. 🎉 Merged PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
+2. 💪 Opened PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
+3. 🎉 Merged PR [#1](https://github.com/navharsh/Dopefolio/pull/1) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
+4. 💪 Opened PR [#1](https://github.com/navharsh/Dopefolio/pull/1) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
+5. ❌ Closed PR [#30](https://github.com/rammcodes/Dopefolio/pull/30) in [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio)
 <!--END_SECTION:activity-->
 
 ---
