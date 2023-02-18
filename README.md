@@ -53,11 +53,11 @@
 ## Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
-2. 💪 Opened PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
-3. 🎉 Merged PR [#1](https://github.com/navharsh/Dopefolio/pull/1) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
-4. 💪 Opened PR [#1](https://github.com/navharsh/Dopefolio/pull/1) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
-5. ❌ Closed PR [#30](https://github.com/rammcodes/Dopefolio/pull/30) in [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio)
+1. 🎉 Merged PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
+2. 💪 Opened PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
+3. 🎉 Merged PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
+4. 💪 Opened PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
+5. 🎉 Merged PR [#1](https://github.com/navharsh/Dopefolio/pull/1) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
 <!--END_SECTION:activity-->
 
 ---
