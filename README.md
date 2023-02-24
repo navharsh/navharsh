@@ -58,11 +58,11 @@
 ## Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
-2. 💪 Opened PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
-3. 🎉 Merged PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
-4. 💪 Opened PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
-5. 🎉 Merged PR [#1](https://github.com/navharsh/Dopefolio/pull/1) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
+1. ❗️ Closed issue [#397](https://github.com/Tech-Phantoms/community/issues/397) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
+2. 🎉 Merged PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
+3. 💪 Opened PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
+4. 🎉 Merged PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
+5. 💪 Opened PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
 <!--END_SECTION:activity-->
 
 ---
