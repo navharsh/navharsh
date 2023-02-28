@@ -58,11 +58,11 @@
 ## Recent Activity :
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#397](https://github.com/Tech-Phantoms/community/issues/397) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
-2. 🎉 Merged PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
-3. 💪 Opened PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
-4. 🎉 Merged PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
-5. 💪 Opened PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
+1. 💪 Opened PR [#286](https://github.com/rupali-codes/LinksHub/pull/286) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+2. ❗️ Closed issue [#397](https://github.com/Tech-Phantoms/community/issues/397) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
+3. 🎉 Merged PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
+4. 💪 Opened PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
+5. 🎉 Merged PR [#1](https://github.com/navharsh/newportfolio/pull/1) in [navharsh/newportfolio](https://github.com/navharsh/newportfolio)
 <!--END_SECTION:activity-->
 
 ---
