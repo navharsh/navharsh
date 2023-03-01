@@ -33,28 +33,18 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- ---
-###  Social accounts:
-[![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://telegram.me/navharsh)
-[![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/navharsh_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23282a36?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/navharsh)
- -->
 ---
+
 ## My Statistics :
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
   <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api/top-langs/?username=navharsh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <br>
-
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=navharsh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navharsh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 </p>
-<!-- [![Navharsh's GitHub stats](https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) &emsp;
-[![Top Langs](https://github-readme-stats-pearl-rho.vercel.app/api/top-langs/?username=navharsh&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
+
 ## Recent Activity :
 
 <!--START_SECTION:activity-->
