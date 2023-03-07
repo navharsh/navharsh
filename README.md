@@ -60,6 +60,12 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 21 of [BLUELOCK](https://anilist.co/anime/137822) (19:37 04 March 2023)
+-   📺 Watched episode 22 of [My Hero Academia Season 6](https://anilist.co/anime/139630) (18:51 04 March 2023)
+-   📖 Read chapter 187 of [Solo Leveling](https://anilist.co/manga/105398) (16:22 01 March 2023)
+-   📺 Watched episode 20 of [BLUELOCK](https://anilist.co/anime/137822) (19:12 25 February 2023)
+-   📺 Watched episode 21 of [My Hero Academia Season 6](https://anilist.co/anime/139630) (16:32 25 February 2023)
+
 <!-- ANILIST_ACTIVITY:end -->
 ---
 [![](https://visitcount.itsvg.in/api?id=navharsh&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
