@@ -56,4 +56,10 @@
 <!--END_SECTION:activity-->
 
 ---
+## My recent AniList activity :
+
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
+---
 [![](https://visitcount.itsvg.in/api?id=navharsh&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
