@@ -50,11 +50,11 @@
 ## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#293](https://github.com/rupali-codes/LinksHub/pull/293) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-2. 💪 Opened PR [#286](https://github.com/rupali-codes/LinksHub/pull/286) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-3. ❗️ Closed issue [#397](https://github.com/Tech-Phantoms/community/issues/397) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
-4. 🎉 Merged PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
-5. 💪 Opened PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
+1. 🎉 Merged PR [#1](https://github.com/navharsh/navharsh/pull/1) in [navharsh/navharsh](https://github.com/navharsh/navharsh)
+2. 💪 Opened PR [#1](https://github.com/navharsh/navharsh/pull/1) in [navharsh/navharsh](https://github.com/navharsh/navharsh)
+3. 💪 Opened PR [#293](https://github.com/rupali-codes/LinksHub/pull/293) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. 💪 Opened PR [#286](https://github.com/rupali-codes/LinksHub/pull/286) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+5. ❗️ Closed issue [#397](https://github.com/Tech-Phantoms/community/issues/397) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
 <!--END_SECTION:activity-->
 
 
