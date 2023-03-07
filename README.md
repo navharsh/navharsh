@@ -37,7 +37,8 @@
 
 
 ## 📊 My Statistics :
-<div align="center"> <img src="https://raw.githubusercontent.com/navharsh/navharsh/output/github-contribution-grid-snake.svg" /></div>
+
+<div align="center"> <img src="https://raw.githubusercontent.com/navharsh/navharsh/output/github-contribution-grid-snake-dark.svg" /></div>
 
   <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&&cache_seconds=3600">
