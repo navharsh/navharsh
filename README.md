@@ -1,15 +1,16 @@
 ## Hi👋, I'm Navharsh
 
 
-### About Me:
+### 📝About Me:
 
-- Web Developer<!--, B.Sc Graduate & CS Student. -->
-- I love reading books and listening to songs of various generes and cultures.
-#### Currently Playing 🎧:
+-  A Web developer ( still got a lot to learn... )<!--, B.Sc Graduate & CS Student. -->
+- I love reading books and listening to songs of various generes and languages.
+
+## 🎧 Currently Playing :
   [![Spotify](https://nav-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s)
 
----
-## Software & Technologies:
+
+## 💻Software & Technologies:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,9 +34,9 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   
----
 
-## My Statistics :
+
+## 📊 My Statistics :
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
   <p align="center">
@@ -43,9 +44,9 @@
   <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api/top-langs/?username=navharsh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
 </p>
 
----
 
-## Recent Activity :
+
+## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#293](https://github.com/rupali-codes/LinksHub/pull/293) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
@@ -55,8 +56,9 @@
 5. 💪 Opened PR [#1](https://github.com/navharsh/news-homepage/pull/1) in [navharsh/news-homepage](https://github.com/navharsh/news-homepage)
 <!--END_SECTION:activity-->
 
----
-## My recent AniList activity :
+
+
+## ✨My AniList activity :
 
 <!-- ANILIST_ACTIVITY:start -->
 
@@ -67,5 +69,5 @@
 -   📺 Watched episode 21 of [My Hero Academia Season 6](https://anilist.co/anime/139630) (16:32 25 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
----
+
 [![](https://visitcount.itsvg.in/api?id=navharsh&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
