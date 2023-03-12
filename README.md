@@ -50,11 +50,11 @@
 ## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#343](https://github.com/rupali-codes/LinksHub/pull/343) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-2. 🎉 Merged PR [#1](https://github.com/navharsh/navharsh/pull/1) in [navharsh/navharsh](https://github.com/navharsh/navharsh)
-3. 💪 Opened PR [#1](https://github.com/navharsh/navharsh/pull/1) in [navharsh/navharsh](https://github.com/navharsh/navharsh)
-4. 💪 Opened PR [#293](https://github.com/rupali-codes/LinksHub/pull/293) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-5. 💪 Opened PR [#286](https://github.com/rupali-codes/LinksHub/pull/286) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. ❌ Closed PR [#343](https://github.com/rupali-codes/LinksHub/pull/343) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+2. 🗣 Commented on [#343](https://github.com/rupali-codes/LinksHub/issues/343) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. 💪 Opened PR [#343](https://github.com/rupali-codes/LinksHub/pull/343) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. 🎉 Merged PR [#1](https://github.com/navharsh/navharsh/pull/1) in [navharsh/navharsh](https://github.com/navharsh/navharsh)
+5. 💪 Opened PR [#1](https://github.com/navharsh/navharsh/pull/1) in [navharsh/navharsh](https://github.com/navharsh/navharsh)
 <!--END_SECTION:activity-->
 
 
