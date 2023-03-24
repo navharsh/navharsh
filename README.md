@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 189 - 192 of [Solo Leveling](https://anilist.co/manga/105398) (15:19 24 March 2023)
 -   📺 Watched episode 24 of [My Hero Academia Season 6](https://anilist.co/anime/139630) (15:00 24 March 2023)
 -   📺 Watched episode 23 of [BLUELOCK](https://anilist.co/anime/137822) (04:11 24 March 2023)
 -   📺 Watched episode 22 of [BLUELOCK](https://anilist.co/anime/137822) (16:47 11 March 2023)
 -   📺 Watched episode 23 of [My Hero Academia Season 6](https://anilist.co/anime/139630) (16:47 11 March 2023)
--   📖 Read chapter 188 of [Solo Leveling](https://anilist.co/manga/105398) (18:33 08 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
