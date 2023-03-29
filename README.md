@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Angels of Death](https://anilist.co/anime/99629) (16:51 29 March 2023)
 -   📺 Watched episode 1 of [Uncle from Another World](https://anilist.co/anime/135806) (05:07 29 March 2023)
 -   📺 Completed [BLUELOCK](https://anilist.co/anime/137822) (05:41 26 March 2023)
 -   📺 Completed [My Hero Academia Season 6](https://anilist.co/anime/139630) (17:10 25 March 2023)
 -   📖 Read chapter 189 - 192 of [Solo Leveling](https://anilist.co/manga/105398) (15:19 24 March 2023)
--   📺 Watched episode 24 of [My Hero Academia Season 6](https://anilist.co/anime/139630) (15:00 24 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
