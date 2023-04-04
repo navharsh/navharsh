@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Uncle from Another World](https://anilist.co/anime/135806) (16:38 04 April 2023)
+-   📺 Rewatched episode 2 of [Your lie in April](https://anilist.co/anime/20665) (16:38 04 April 2023)
 -   📺 Rewatched episode 1 of [Your lie in April](https://anilist.co/anime/20665) (17:46 03 April 2023)
 -   📺 Plans to watch [Angels of Death](https://anilist.co/anime/99629) (16:51 29 March 2023)
 -   📺 Watched episode 1 of [Uncle from Another World](https://anilist.co/anime/135806) (05:07 29 March 2023)
--   📺 Completed [BLUELOCK](https://anilist.co/anime/137822) (05:41 26 March 2023)
--   📺 Completed [My Hero Academia Season 6](https://anilist.co/anime/139630) (17:10 25 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
