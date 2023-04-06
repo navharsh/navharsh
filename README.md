@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Dr. STONE New World](https://anilist.co/anime/131518) (20:00 06 April 2023)
 -   📺 Rewatched episode 3 - 6 of [Your lie in April](https://anilist.co/anime/20665) (14:33 06 April 2023)
 -   📺 Watched episode 2 of [Uncle from Another World](https://anilist.co/anime/135806) (16:38 04 April 2023)
 -   📺 Rewatched episode 2 of [Your lie in April](https://anilist.co/anime/20665) (16:38 04 April 2023)
 -   📺 Rewatched episode 1 of [Your lie in April](https://anilist.co/anime/20665) (17:46 03 April 2023)
--   📺 Plans to watch [Angels of Death](https://anilist.co/anime/99629) (16:51 29 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
