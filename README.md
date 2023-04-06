@@ -63,7 +63,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Rewatched episode 3 - 4 of [Your lie in April](https://anilist.co/anime/20665) (05:46 06 April 2023)
+-   📺 Rewatched episode 3 - 6 of [Your lie in April](https://anilist.co/anime/20665) (14:33 06 April 2023)
 -   📺 Watched episode 2 of [Uncle from Another World](https://anilist.co/anime/135806) (16:38 04 April 2023)
 -   📺 Rewatched episode 2 of [Your lie in April](https://anilist.co/anime/20665) (16:38 04 April 2023)
 -   📺 Rewatched episode 1 of [Your lie in April](https://anilist.co/anime/20665) (17:46 03 April 2023)
