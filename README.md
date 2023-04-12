@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Play It Cool, Guys](https://anilist.co/anime/147885) (19:58 12 April 2023)
 -   📺 Rewatched 22 of [Your lie in April](https://anilist.co/anime/20665) (21:35 10 April 2023)
 -   📺 Rewatched episode 12 - 21 of [Your lie in April](https://anilist.co/anime/20665) (21:35 10 April 2023)
 -   📺 Watched episode 1 of [Hell’s Paradise](https://anilist.co/anime/128893) (14:19 10 April 2023)
 -   📺 Watched episode 1 of [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (18:29 09 April 2023)
--   📺 Plans to watch [Kakushigoto](https://anilist.co/anime/113311) (17:56 08 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
