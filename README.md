@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 193 of [Solo Leveling](https://anilist.co/manga/105398) (16:02 13 April 2023)
 -   📺 Watched episode 2 of [Hell’s Paradise](https://anilist.co/anime/128893) (20:23 12 April 2023)
 -   📺 Watched episode 1 - 2 of [Play It Cool, Guys](https://anilist.co/anime/147885) (19:58 12 April 2023)
 -   📺 Rewatched 22 of [Your lie in April](https://anilist.co/anime/20665) (21:35 10 April 2023)
 -   📺 Rewatched episode 12 - 21 of [Your lie in April](https://anilist.co/anime/20665) (21:35 10 April 2023)
--   📺 Watched episode 1 of [Hell’s Paradise](https://anilist.co/anime/128893) (14:19 10 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
