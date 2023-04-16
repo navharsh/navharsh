@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (18:58 16 April 2023)
 -   📺 Watched episode 3 of [Hell’s Paradise](https://anilist.co/anime/128893) (14:12 16 April 2023)
 -   📺 Watched episode 2 of [Dr. STONE New World](https://anilist.co/anime/131518) (14:10 14 April 2023)
 -   📖 Read chapter 193 of [Solo Leveling](https://anilist.co/manga/105398) (16:02 13 April 2023)
 -   📺 Watched episode 2 of [Hell’s Paradise](https://anilist.co/anime/128893) (20:23 12 April 2023)
--   📺 Watched episode 1 - 2 of [Play It Cool, Guys](https://anilist.co/anime/147885) (19:58 12 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
