@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 194 of [Solo Leveling](https://anilist.co/manga/105398) (15:42 20 April 2023)
+-   📺 Watched episode 3 of [Dr. STONE New World](https://anilist.co/anime/131518) (15:41 20 April 2023)
 -   📺 Watched episode 2 of [Oshi No Ko](https://anilist.co/anime/150672) (09:19 20 April 2023)
 -   📺 Watched episode 1 of [Oshi No Ko](https://anilist.co/anime/150672) (09:21 19 April 2023)
 -   📺 Watched episode 2 of [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (18:58 16 April 2023)
--   📺 Watched episode 3 of [Hell’s Paradise](https://anilist.co/anime/128893) (14:12 16 April 2023)
--   📺 Watched episode 2 of [Dr. STONE New World](https://anilist.co/anime/131518) (14:10 14 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
