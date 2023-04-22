@@ -50,7 +50,7 @@
 ## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#343](https://github.com/rupali-codes/LinksHub/pull/343) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. 💪 Opened PR [#37](https://github.com/rammcodes/Dopefolio/pull/37) in [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio)
 2. 🗣 Commented on [#343](https://github.com/rupali-codes/LinksHub/issues/343) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 3. 💪 Opened PR [#343](https://github.com/rupali-codes/LinksHub/pull/343) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 4. 🎉 Merged PR [#1](https://github.com/navharsh/navharsh/pull/1) in [navharsh/navharsh](https://github.com/navharsh/navharsh)
