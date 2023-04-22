@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Hell’s Paradise](https://anilist.co/anime/128893) (18:31 22 April 2023)
 -   📺 Completed [Suzume](https://anilist.co/anime/142770) (13:45 21 April 2023)
 -   📖 Read chapter 194 of [Solo Leveling](https://anilist.co/manga/105398) (15:42 20 April 2023)
 -   📺 Watched episode 3 of [Dr. STONE New World](https://anilist.co/anime/131518) (15:41 20 April 2023)
 -   📺 Watched episode 2 of [Oshi No Ko](https://anilist.co/anime/150672) (09:19 20 April 2023)
--   📺 Watched episode 1 of [Oshi No Ko](https://anilist.co/anime/150672) (09:21 19 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
