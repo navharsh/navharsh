@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (12:10 01 May 2023)
 -   📺 Watched episode 4 of [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (17:10 30 April 2023)
 -   📺 Watched episode 5 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (20:27 29 April 2023)
 -   📺 Watched episode 5 of [Hell’s Paradise](https://anilist.co/anime/128893) (17:11 29 April 2023)
 -   📺 Rewatched 1 of [Summer Ghost](https://anilist.co/anime/130050) (15:42 28 April 2023)
--   📺 Watched episode 4 of [Dr. STONE New World](https://anilist.co/anime/131518) (15:34 27 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
