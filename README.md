@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Reread chapter 1 - 115 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (03:06 08 May 2023)
 -   📺 Watched episode 5 of [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (16:40 07 May 2023)
 -   📺 Watched episode 6 of [Hell’s Paradise](https://anilist.co/anime/128893) (18:30 06 May 2023)
 -   📺 Watched episode 6 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (18:30 06 May 2023)
 -   📺 Watched episode 5 of [Dr. STONE New World](https://anilist.co/anime/131518) (19:17 04 May 2023)
--   📖 Read chapter 196 of [Solo Leveling](https://anilist.co/manga/105398) (14:38 04 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
