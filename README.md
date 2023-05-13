@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 450 - 570 of [Bleach](https://anilist.co/manga/30012) (17:00 13 May 2023)
 -   📺 Watched episode 6 of [Dr. STONE New World](https://anilist.co/anime/131518) (15:18 11 May 2023)
 -   📖 Read chapter 197 of [Solo Leveling](https://anilist.co/manga/105398) (15:18 11 May 2023)
 -   📺 Watched episode 5 of [Oshi No Ko](https://anilist.co/anime/150672) (18:54 10 May 2023)
 -   📖 Reread 207 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (03:45 08 May 2023)
--   📖 Reread chapter 1 - 206 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/manga/87216) (03:45 08 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
