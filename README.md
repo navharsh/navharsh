@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 198 of [Solo Leveling](https://anilist.co/manga/105398) (19:56 19 May 2023)
 -   📖 Completed [Bleach](https://anilist.co/manga/30012) (18:50 18 May 2023)
 -   📖 Read chapter 586 - 705 of [Bleach](https://anilist.co/manga/30012) (18:50 18 May 2023)
 -   📺 Watched episode 6 of [Oshi No Ko](https://anilist.co/anime/150672) (18:36 18 May 2023)
 -   📺 Watched episode 6 of [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (13:59 18 May 2023)
--   📖 Read chapter 571 - 585 of [Bleach](https://anilist.co/manga/30012) (17:56 14 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
