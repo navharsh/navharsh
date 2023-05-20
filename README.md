@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.](https://anilist.co/anime/154459) (08:20 20 May 2023)
 -   📺 Watched episode 7 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (07:45 20 May 2023)
 -   📺 Watched episode 7 of [Dr. STONE New World](https://anilist.co/anime/131518) (07:45 20 May 2023)
 -   📖 Read chapter 198 of [Solo Leveling](https://anilist.co/manga/105398) (19:56 19 May 2023)
 -   📖 Completed [Bleach](https://anilist.co/manga/30012) (18:50 18 May 2023)
--   📖 Read chapter 586 - 705 of [Bleach](https://anilist.co/manga/30012) (18:50 18 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
