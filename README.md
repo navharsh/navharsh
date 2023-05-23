@@ -50,11 +50,11 @@
 ## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/plxity/achievementsof.life/pull/52) in [plxity/achievementsof.life](https://github.com/plxity/achievementsof.life)
-2. 💪 Opened PR [#51](https://github.com/plxity/achievementsof.life/pull/51) in [plxity/achievementsof.life](https://github.com/plxity/achievementsof.life)
-3. ❌ Closed PR [#50](https://github.com/plxity/achievementsof.life/pull/50) in [plxity/achievementsof.life](https://github.com/plxity/achievementsof.life)
-4. 💪 Opened PR [#50](https://github.com/plxity/achievementsof.life/pull/50) in [plxity/achievementsof.life](https://github.com/plxity/achievementsof.life)
-5. 🎉 Merged PR [#2](https://github.com/navharsh/Dopefolio/pull/2) in [navharsh/Dopefolio](https://github.com/navharsh/Dopefolio)
+1. 🗣 Commented on [#665](https://github.com/rupali-codes/LinksHub/issues/665) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+2. ❗️ Opened issue [#666](https://github.com/rupali-codes/LinksHub/issues/666) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. 🗣 Commented on [#665](https://github.com/rupali-codes/LinksHub/issues/665) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. 🗣 Commented on [#665](https://github.com/rupali-codes/LinksHub/issues/665) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+5. 🗣 Commented on [#665](https://github.com/rupali-codes/LinksHub/issues/665) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 <!--END_SECTION:activity-->
 
 
