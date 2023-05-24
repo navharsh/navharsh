@@ -3,8 +3,8 @@
 
 ### 📝About Me:
 
--  A Web developer ( still got a lot to learn... )<!--, B.Sc Graduate & CS Student. -->
-- I love reading books and listening to songs of various generes and languages.
+- A Web developer ( still got a lot to learn... )
+- My hobbies include reading books, listening to songs from a bunch of generes and watching anime in free time .
 
 ## 🎧 Currently Playing :
   [![Spotify](https://nav-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s)
