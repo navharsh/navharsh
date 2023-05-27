@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (13:15 27 May 2023)
 -   📺 Rewatched 12 of [Tokyo Ghoul:re 2](https://anilist.co/anime/102351) (22:19 26 May 2023)
 -   📺 Rewatched episode 1 - 11 of [Tokyo Ghoul:re 2](https://anilist.co/anime/102351) (22:19 26 May 2023)
 -   📺 Rewatched 12 of [Tokyo Ghoul:re](https://anilist.co/anime/100240) (22:19 26 May 2023)
 -   📺 Rewatched episode 1 - 11 of [Tokyo Ghoul:re](https://anilist.co/anime/100240) (22:19 26 May 2023)
--   📺 Rewatched 12 of [Tokyo Ghoul √A](https://anilist.co/anime/20850) (22:19 26 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
