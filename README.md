@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 8 of [Dr. STONE New World](https://anilist.co/anime/131518) (07:05 26 May 2023)
--   📺 Watched episode 7 of [Oshi No Ko](https://anilist.co/anime/150672) (11:33 25 May 2023)
--   📺 Watched episode 7 of [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (19:13 21 May 2023)
--   📺 Watched episode 8 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (15:24 21 May 2023)
--   📺 Watched episode 8 of [Hell’s Paradise](https://anilist.co/anime/128893) (15:24 21 May 2023)
+-   📺 Rewatched 12 of [Tokyo Ghoul:re 2](https://anilist.co/anime/102351) (22:19 26 May 2023)
+-   📺 Rewatched episode 1 - 11 of [Tokyo Ghoul:re 2](https://anilist.co/anime/102351) (22:19 26 May 2023)
+-   📺 Rewatched 12 of [Tokyo Ghoul:re](https://anilist.co/anime/100240) (22:19 26 May 2023)
+-   📺 Rewatched episode 1 - 11 of [Tokyo Ghoul:re](https://anilist.co/anime/100240) (22:19 26 May 2023)
+-   📺 Rewatched 12 of [Tokyo Ghoul √A](https://anilist.co/anime/20850) (22:19 26 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
