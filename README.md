@@ -50,10 +50,10 @@
 ## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#801](https://github.com/rupali-codes/LinksHub/pull/801) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. 🗣 Commented on [#801](https://github.com/rupali-codes/LinksHub/issues/801) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 2. 🗣 Commented on [#746](https://github.com/rupali-codes/LinksHub/issues/746) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-3. ❌ Reopened PR [#746](https://github.com/rupali-codes/LinksHub/pull/746) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-4. ❌ Closed PR [#746](https://github.com/rupali-codes/LinksHub/pull/746) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. 💪 Opened PR [#801](https://github.com/rupali-codes/LinksHub/pull/801) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. 🗣 Commented on [#746](https://github.com/rupali-codes/LinksHub/issues/746) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 5. ❌ Reopened PR [#746](https://github.com/rupali-codes/LinksHub/pull/746) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 <!--END_SECTION:activity-->
 
