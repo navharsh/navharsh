@@ -21,7 +21,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL--STUDIO--CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -41,10 +40,11 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/navharsh/navharsh/output/github-contribution-grid-snake-dark.svg" /></div>
 
   <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&&cache_seconds=3600">
-  <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api/top-langs/?username=navharsh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-</p>
-
+  <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=contribs&rank_icon=github&bg_color=00000000&&cache_seconds=3600">
+  <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api/top-langs/?username=navharsh&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=6">
+  <img height="45%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=navharsh&theme=github_dark&hide_border=true&bg_color=00000000" alt="navharsh" />
+  
+ </p>
 
 
 ## 🧑🏻‍💻Recent Activity :
