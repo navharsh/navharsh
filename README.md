@@ -1,10 +1,8 @@
 ## Hi👋, I'm Navharsh
-
-
 ### 📝About Me:
 
-- A Web developer ( still got a lot to learn... )
-- My hobbies include reading books, listening to songs from a bunch of generes and watching anime in free time .
+- I am a 20y old self taught web developer. ( Tring to get better everyday... )
+- My hobbies include reading books, listening to songs from a bunch of generes and watching anime in free time.
 
 ## 🎧 Currently Playing :
   [![Spotify](https://nav-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s)
@@ -15,6 +13,7 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -25,8 +24,8 @@
 ![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+<!-- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -44,9 +43,8 @@
   <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api?username=navharsh&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=contribs&rank_icon=github&bg_color=00000000&&cache_seconds=3600">
   <img height="50%" width="auto" src ="https://github-readme-stats-pearl-rho.vercel.app/api/top-langs/?username=navharsh&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=6">
   <img height="45%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=navharsh&theme=github_dark&hide_border=true&bg_color=00000000" alt="navharsh" />
-  
  </p>
-
+ 
 
 ## 🧑🏻‍💻Recent Activity :
 
@@ -57,8 +55,6 @@
 4. ❗ Opened issue [#863](https://github.com/rupali-codes/LinksHub/issues/863) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 5. 🗣 Commented on [#858](https://github.com/rupali-codes/LinksHub/issues/858) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 <!--END_SECTION:activity-->
-
-
 
 ## ✨My AniList activity :
 
@@ -72,4 +68,4 @@
 
 <!-- ANILIST_ACTIVITY:end -->
 
-[![](https://visitcount.itsvg.in/api?id=navharsh&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=navharsh&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
