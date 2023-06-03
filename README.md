@@ -63,11 +63,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Dr. STONE New World](https://anilist.co/anime/131518) (22:52 02 June 2023)
 -   📖 Read chapter 199 of [Solo Leveling](https://anilist.co/manga/105398) (07:08 31 May 2023)
 -   📺 Plans to watch [ODDTAXI](https://anilist.co/anime/128547) (06:15 30 May 2023)
 -   📺 Watched episode 8 of [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (18:28 28 May 2023)
 -   📺 Watched episode 9 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (11:18 28 May 2023)
--   📺 Watched episode 2 of [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (13:15 27 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
