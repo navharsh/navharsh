@@ -50,10 +50,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#969](https://github.com/rupali-codes/LinksHub/issues/969) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-2. ❗ Opened issue [#969](https://github.com/rupali-codes/LinksHub/issues/969) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-3. ❗ Opened issue [#377](https://github.com/naomis-novas/community/issues/377) in [naomis-novas/community](https://github.com/naomis-novas/community)
-4. 🗣 Commented on [#951](https://github.com/rupali-codes/LinksHub/issues/951) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-5. 💪 Opened PR [#951](https://github.com/rupali-codes/LinksHub/pull/951) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+2. 🗣 Commented on [#969](https://github.com/rupali-codes/LinksHub/issues/969) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. ❗ Opened issue [#969](https://github.com/rupali-codes/LinksHub/issues/969) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. ❗ Opened issue [#377](https://github.com/naomis-novas/community/issues/377) in [naomis-novas/community](https://github.com/naomis-novas/community)
+5. 🗣 Commented on [#951](https://github.com/rupali-codes/LinksHub/issues/951) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 <!--END_SECTION:activity-->
 
 ## ✨My AniList activity :
