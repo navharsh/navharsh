@@ -49,11 +49,11 @@
 ## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#996](https://github.com/rupali-codes/LinksHub/issues/996) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-2. 💪 Opened PR [#7471](https://github.com/EddieHubCommunity/LinkFree/pull/7471) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#61](https://github.com/novatorem/novatorem/issues/61) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
-4. 💪 Opened PR [#984](https://github.com/rupali-codes/LinksHub/pull/984) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-5. ❗ Opened issue [#983](https://github.com/rupali-codes/LinksHub/issues/983) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. 💪 Opened PR [#1000](https://github.com/rupali-codes/LinksHub/pull/1000) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+2. ❗ Opened issue [#996](https://github.com/rupali-codes/LinksHub/issues/996) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. 💪 Opened PR [#7471](https://github.com/EddieHubCommunity/LinkFree/pull/7471) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#61](https://github.com/novatorem/novatorem/issues/61) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+5. 💪 Opened PR [#984](https://github.com/rupali-codes/LinksHub/pull/984) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 <!--END_SECTION:activity-->
 
 ## ✨My AniList activity :
