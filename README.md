@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (02:36 11 June 2023)
 -   📺 Watched episode 10 of [Dr. STONE New World](https://anilist.co/anime/131518) (16:13 09 June 2023)
 -   📺 Watched episode 8 of [Oshi No Ko](https://anilist.co/anime/150672) (00:45 08 June 2023)
 -   📖 Completed [Solo Leveling](https://anilist.co/manga/105398) (02:54 07 June 2023)
 -   📖 Read chapter 200 of [Solo Leveling](https://anilist.co/manga/105398) (02:54 07 June 2023)
--   📺 Watched episode 10 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (20:15 04 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
