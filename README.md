@@ -49,11 +49,11 @@
 ## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12214](https://github.com/JonathanGin52/JonathanGin52/issues/12214) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗ Opened issue [#12198](https://github.com/JonathanGin52/JonathanGin52/issues/12198) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-3. ❗ Opened issue [#31518](https://github.com/timburgan/timburgan/issues/31518) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗ Opened issue [#12197](https://github.com/JonathanGin52/JonathanGin52/issues/12197) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗ Opened issue [#12195](https://github.com/JonathanGin52/JonathanGin52/issues/12195) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. ❗ Opened issue [#31583](https://github.com/timburgan/timburgan/issues/31583) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗ Opened issue [#12214](https://github.com/JonathanGin52/JonathanGin52/issues/12214) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗ Opened issue [#12198](https://github.com/JonathanGin52/JonathanGin52/issues/12198) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+4. ❗ Opened issue [#31518](https://github.com/timburgan/timburgan/issues/31518) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. ❗ Opened issue [#12197](https://github.com/JonathanGin52/JonathanGin52/issues/12197) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 ## ✨My AniList activity :
