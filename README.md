@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Oshi No Ko](https://anilist.co/anime/150672) (20:26 28 June 2023)
 -   📺 Watched episode 12 of [Hell’s Paradise](https://anilist.co/anime/128893) (07:30 25 June 2023)
 -   📺 Completed [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (06:36 25 June 2023)
 -   📖 Plans to read [Fire Punch](https://anilist.co/manga/87170) (11:20 24 June 2023)
 -   📺 Watched episode 10 of [Oshi No Ko](https://anilist.co/anime/150672) (06:29 22 June 2023)
--   📺 Completed [Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc](https://anilist.co/anime/145139) (08:29 19 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
