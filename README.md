@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [[Oshi no Ko] 2nd Season](https://anilist.co/anime/166531) (17:01 30 June 2023)
 -   📺 Completed [Oshi No Ko](https://anilist.co/anime/150672) (20:26 28 June 2023)
 -   📺 Watched episode 12 of [Hell’s Paradise](https://anilist.co/anime/128893) (07:30 25 June 2023)
 -   📺 Completed [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (06:36 25 June 2023)
 -   📖 Plans to read [Fire Punch](https://anilist.co/manga/87170) (11:20 24 June 2023)
--   📺 Watched episode 10 of [Oshi No Ko](https://anilist.co/anime/150672) (06:29 22 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
