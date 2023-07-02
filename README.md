@@ -63,7 +63,7 @@
 -   📺 Watched episode 1 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (20:57 01 July 2023)
 -   📺 Completed [Hell’s Paradise](https://anilist.co/anime/128893) (20:18 01 July 2023)
 -   📺 Plans to watch [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (19:44 30 June 2023)
--   📺 Plans to watch [[Oshi no Ko] 2nd Season](https://anilist.co/anime/166531) (17:01 30 June 2023)
+-   📺 Plans to watch [Oshi no Ko Season 2](https://anilist.co/anime/166531) (17:01 30 June 2023)
 -   📺 Completed [Oshi No Ko](https://anilist.co/anime/150672) (20:26 28 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
