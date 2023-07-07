@@ -53,7 +53,7 @@
 2. 🗣 Commented on [#1123](https://github.com/rupali-codes/LinksHub/issues/1123) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 3. 🗣 Commented on [#1123](https://github.com/rupali-codes/LinksHub/issues/1123) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 4. 🗣 Commented on [#1123](https://github.com/rupali-codes/LinksHub/issues/1123) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-5. ❗ Opened issue [#12231](https://github.com/JonathanGin52/JonathanGin52/issues/12231) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. 🗣 Commented on [#1123](https://github.com/rupali-codes/LinksHub/issues/1123) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 <!--END_SECTION:activity-->
 
 ## ✨My AniList activity :
