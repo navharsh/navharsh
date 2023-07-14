@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (11:04 14 July 2023)
 -   📺 Watched episode 1 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (03:16 09 July 2023)
 -   📺 Watched episode 2 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (02:37 09 July 2023)
 -   📺 Watched episode 1 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (14:06 07 July 2023)
 -   📺 Watched episode 1 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (20:57 01 July 2023)
--   📺 Completed [Hell’s Paradise](https://anilist.co/anime/128893) (20:18 01 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
