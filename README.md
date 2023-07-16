@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 - 51 of [[Oshi no Ko]](https://anilist.co/manga/117195) (17:34 16 July 2023)
 -   📺 Watched episode 2 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (21:01 15 July 2023)
 -   📺 Watched episode 3 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (21:01 15 July 2023)
 -   📺 Watched episode 2 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (11:04 14 July 2023)
 -   📺 Watched episode 1 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (03:16 09 July 2023)
--   📺 Watched episode 2 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (02:37 09 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
