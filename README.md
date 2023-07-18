@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Buddy Daddies](https://anilist.co/anime/155907) (17:21 18 July 2023)
+-   📺 Plans to watch [Terror in Resonance](https://anilist.co/anime/20661) (17:21 18 July 2023)
+-   📺 Plans to watch [Dororo](https://anilist.co/anime/101347) (17:21 18 July 2023)
 -   📖 Read chapter 101 - 123 of [[Oshi no Ko]](https://anilist.co/manga/117195) (01:29 18 July 2023)
 -   📖 Read chapter 40 - 100 of [[Oshi no Ko]](https://anilist.co/manga/117195) (22:57 16 July 2023)
--   📺 Watched episode 2 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (21:01 15 July 2023)
--   📺 Watched episode 3 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (21:01 15 July 2023)
--   📺 Watched episode 2 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (11:04 14 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
