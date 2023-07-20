@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (18:59 20 July 2023)
 -   📺 Plans to watch [Buddy Daddies](https://anilist.co/anime/155907) (17:21 18 July 2023)
 -   📺 Plans to watch [Terror in Resonance](https://anilist.co/anime/20661) (17:21 18 July 2023)
 -   📺 Plans to watch [Dororo](https://anilist.co/anime/101347) (17:21 18 July 2023)
 -   📖 Read chapter 101 - 123 of [[Oshi no Ko]](https://anilist.co/manga/117195) (01:29 18 July 2023)
--   📖 Read chapter 40 - 100 of [[Oshi no Ko]](https://anilist.co/manga/117195) (22:57 16 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
