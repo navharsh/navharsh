@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 124 of [[Oshi no Ko]](https://anilist.co/manga/117195) (03:06 22 July 2023)
+-   📖 Completed [Naruto: The Whorl Within the Spiral](https://anilist.co/manga/165485) (02:42 22 July 2023)
 -   📺 Watched episode 3 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (18:59 20 July 2023)
 -   📺 Plans to watch [Buddy Daddies](https://anilist.co/anime/155907) (17:21 18 July 2023)
 -   📺 Plans to watch [Terror in Resonance](https://anilist.co/anime/20661) (17:21 18 July 2023)
--   📺 Plans to watch [Dororo](https://anilist.co/anime/101347) (17:21 18 July 2023)
--   📖 Read chapter 101 - 123 of [[Oshi no Ko]](https://anilist.co/manga/117195) (01:29 18 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
