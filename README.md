@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Rick and Morty: The Anime](https://anilist.co/anime/150103) (16:33 27 July 2023)
 -   📖 Read chapter 125 of [[Oshi no Ko]](https://anilist.co/manga/117195) (02:54 27 July 2023)
 -   📺 Watched episode 4 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (17:29 22 July 2023)
 -   📺 Watched episode 3 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (17:29 22 July 2023)
 -   📖 Read chapter 124 of [[Oshi no Ko]](https://anilist.co/manga/117195) (03:06 22 July 2023)
--   📖 Completed [Naruto: The Whorl Within the Spiral](https://anilist.co/manga/165485) (02:42 22 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
