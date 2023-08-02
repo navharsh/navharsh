@@ -60,7 +60,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (11:17 02 August 2023)
+-   📺 Watched episode 1 - 4 of [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (14:54 02 August 2023)
 -   📺 Watched episode 4 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (22:41 29 July 2023)
 -   📺 Watched episode 5 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (22:41 29 July 2023)
 -   📺 Watched episode 4 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (22:41 29 July 2023)
