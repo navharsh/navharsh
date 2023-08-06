@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (11:07 06 August 2023)
+-   📺 Watched episode 5 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (11:07 06 August 2023)
 -   📺 Completed [Haikyu!! The Movie: Battle of Concepts](https://anilist.co/anime/98885) (14:50 05 August 2023)
 -   📺 Completed [Haikyuu!! the Movie: The Winner and the Loser](https://anilist.co/anime/21244) (14:50 05 August 2023)
 -   📺 Completed [Haikyu!! The Movie: Talent and Sense](https://anilist.co/anime/98884) (14:50 05 August 2023)
--   📺 Completed [Haikyu!! the Movie: The End and the Beginning](https://anilist.co/anime/21120) (14:50 05 August 2023)
--   📺 Watched episode 5 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (01:24 04 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
