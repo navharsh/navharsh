@@ -49,11 +49,11 @@
 ## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1668401044) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-2. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1653540584) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-3. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1636662475) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-4. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1628917802) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-5. 🗣 Commented on [#1123](https://github.com/rupali-codes/LinksHub/issues/1123#issuecomment-1626715323) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. 💪 Opened PR [#1521](https://github.com/rupali-codes/LinksHub/pull/1521) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+2. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1668401044) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1653540584) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1636662475) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+5. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1628917802) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 <!--END_SECTION:activity-->
 
 ## ✨My AniList activity :
