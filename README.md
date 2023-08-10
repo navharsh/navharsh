@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [[Oshi no Ko]: interlude](https://anilist.co/manga/168162) (07:09 10 August 2023)
 -   📺 Plans to watch [Boku no Hero Academia THE MOVIE 4](https://anilist.co/anime/168013) (10:32 07 August 2023)
 -   📺 Watched episode 6 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (11:07 06 August 2023)
 -   📺 Watched episode 5 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (11:07 06 August 2023)
 -   📺 Completed [Haikyu!! The Movie: Battle of Concepts](https://anilist.co/anime/98885) (14:50 05 August 2023)
--   📺 Completed [Haikyuu!! the Movie: The Winner and the Loser](https://anilist.co/anime/21244) (14:50 05 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
