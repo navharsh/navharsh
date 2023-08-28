@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (18:36 28 August 2023)
 -   📺 Watched episode 7 - 9 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (19:10 22 August 2023)
 -   📺 Watched episode 6 - 7 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (18:16 22 August 2023)
 -   📺 Watched episode 3 - 4 of [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (11:07 10 August 2023)
 -   📖 Read chapter 1 of [[Oshi no Ko]: interlude](https://anilist.co/manga/168162) (07:09 10 August 2023)
--   📺 Plans to watch [Boku no Hero Academia THE MOVIE 4](https://anilist.co/anime/168013) (10:32 07 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
