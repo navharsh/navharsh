@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 10 - 11 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (13:03 24 September 2023)
--   📺 Watched episode 9 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (19:22 22 September 2023)
--   📺 Watched episode 8 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (07:57 15 September 2023)
--   📺 Watched episode 10 - 11 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (07:57 15 September 2023)
--   📺 Watched episode 9 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (19:49 10 September 2023)
+-   📺 Completed [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (22:49 30 September 2023)
+-   📺 Watched episode 12 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (22:49 30 September 2023)
+-   📺 Plans to watch [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (22:49 30 September 2023)
+-   📺 Completed [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (22:49 30 September 2023)
+-   📺 Watched episode 12 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (22:49 30 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
