@@ -49,9 +49,9 @@
 ## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/OpenCodeEra/.github/issues/1) in [OpenCodeEra/.github](https://github.com/OpenCodeEra/.github)
-2. 💪 Opened PR [#1521](https://github.com/rupali-codes/LinksHub/pull/1521) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-3. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1668401044) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. 🎉 Merged PR [#1](https://github.com/navharsh/Clg-notes/pull/1) in [navharsh/Clg-notes](https://github.com/navharsh/Clg-notes)
+2. 💪 Opened PR [#1](https://github.com/navharsh/Clg-notes/pull/1) in [navharsh/Clg-notes](https://github.com/navharsh/Clg-notes)
+3. ❗ Opened issue [#1](https://github.com/OpenCodeEra/.github/issues/1) in [OpenCodeEra/.github](https://github.com/OpenCodeEra/.github)
 4. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1636662475) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 5. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1628917802) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 <!--END_SECTION:activity-->
