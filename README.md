@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 17 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (19:51 18 November 2023)
 -   📺 Watched episode 16 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (20:45 10 November 2023)
 -   📺 Watched episode 15 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (19:49 02 November 2023)
 -   📺 Watched episode 13 - 14 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (19:19 28 October 2023)
 -   📺 Watched episode 12 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (21:16 12 October 2023)
--   📺 Watched episode 11 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (21:15 05 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
