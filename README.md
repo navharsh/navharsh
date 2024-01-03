@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (20:19 03 January 2024)
 -   📺 Watched episode 22 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (21:59 22 December 2023)
 -   📺 Rewatched [I Want to Eat Your Pancreas](https://anilist.co/anime/99750) (21:09 16 December 2023)
 -   📺 Watched episode 21 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (21:09 14 December 2023)
 -   📺 Watched episode 20 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (00:22 08 December 2023)
--   📺 Watched episode 19 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (18:28 06 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
