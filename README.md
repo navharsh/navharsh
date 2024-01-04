@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Insomniacs after school](https://anilist.co/anime/143653) (23:48 03 January 2024)
+-   📺 Plans to watch [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (23:48 03 January 2024)
+-   📺 Plans to watch [The Apothecary Diaries](https://anilist.co/anime/161645) (23:48 03 January 2024)
 -   📺 Completed [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (20:19 03 January 2024)
 -   📺 Watched episode 22 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (21:59 22 December 2023)
--   📺 Rewatched [I Want to Eat Your Pancreas](https://anilist.co/anime/99750) (21:09 16 December 2023)
--   📺 Watched episode 21 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (21:09 14 December 2023)
--   📺 Watched episode 20 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (00:22 08 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
