@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Solo Leveling](https://anilist.co/anime/151807) (02:57 17 January 2024)
 -   📺 Watched episode 1 of [Solo Leveling](https://anilist.co/anime/151807) (19:16 07 January 2024)
 -   📺 Plans to watch [Insomniacs after school](https://anilist.co/anime/143653) (23:48 03 January 2024)
 -   📺 Plans to watch [Our Dating Story: The Experienced You and The Inexperienced Me](https://anilist.co/anime/154459) (23:48 03 January 2024)
 -   📺 Plans to watch [The Apothecary Diaries](https://anilist.co/anime/161645) (23:48 03 January 2024)
--   📺 Completed [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (20:19 03 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
