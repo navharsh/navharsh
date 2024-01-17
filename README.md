@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [Chainsaw Man](https://anilist.co/manga/105778) (09:27 17 January 2024)
+-   📺 Plans to watch [Dr. STONE New World Part 2](https://anilist.co/anime/162670) (09:26 17 January 2024)
+-   📺 Plans to watch [Uncle from Another World](https://anilist.co/anime/135806) (09:26 17 January 2024)
+-   📺 Plans to watch [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (09:26 17 January 2024)
 -   📺 Plans to watch [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (07:18 17 January 2024)
--   📺 Plans to watch [Vinland Saga Season 2](https://anilist.co/anime/136430) (07:17 17 January 2024)
--   📺 Watched episode 2 of [Solo Leveling](https://anilist.co/anime/151807) (02:57 17 January 2024)
--   📺 Watched episode 1 of [Solo Leveling](https://anilist.co/anime/151807) (19:16 07 January 2024)
--   📺 Plans to watch [Insomniacs after school](https://anilist.co/anime/143653) (23:48 03 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
