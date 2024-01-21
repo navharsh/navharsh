@@ -60,12 +60,12 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Solo Leveling](https://anilist.co/anime/151807) (05:01 21 January 2024)
 -   📖 Completed [Attack on Titan Volume 0
 ](https://anilist.co/manga/85420) (14:09 17 January 2024)
 -   📖 Paused reading [Chainsaw Man](https://anilist.co/manga/105778) (09:27 17 January 2024)
 -   📺 Plans to watch [Dr. STONE New World Part 2](https://anilist.co/anime/162670) (09:26 17 January 2024)
 -   📺 Plans to watch [Uncle from Another World](https://anilist.co/anime/135806) (09:26 17 January 2024)
--   📺 Plans to watch [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (09:26 17 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
