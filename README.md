@@ -60,12 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Solo Leveling](https://anilist.co/anime/151807) (15:45 04 February 2024)
 -   📺 Plans to watch [Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai](https://anilist.co/anime/161474) (17:21 29 January 2024)
 -   📺 Completed [Rascal Does Not Dream of a Sister Venturing Out](https://anilist.co/anime/154967) (17:20 29 January 2024)
 -   📺 Watched episode 4 of [Solo Leveling](https://anilist.co/anime/151807) (22:52 27 January 2024)
 -   📺 Watched episode 3 of [Solo Leveling](https://anilist.co/anime/151807) (05:01 21 January 2024)
--   📖 Completed [Attack on Titan Volume 0
-](https://anilist.co/manga/85420) (14:09 17 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
