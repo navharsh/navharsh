@@ -63,7 +63,7 @@
 -   📺 Watched episode 7 of [Solo Leveling](https://anilist.co/anime/151807) (13:02 20 February 2024)
 -   📺 Watched episode 6 of [Solo Leveling](https://anilist.co/anime/151807) (19:35 14 February 2024)
 -   📺 Watched episode 5 of [Solo Leveling](https://anilist.co/anime/151807) (15:45 04 February 2024)
--   📺 Plans to watch [Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai](https://anilist.co/anime/161474) (17:21 29 January 2024)
+-   📺 Plans to watch [Rascal Does Not Dream of a Knapsack Kid](https://anilist.co/anime/161474) (17:21 29 January 2024)
 -   📺 Completed [Rascal Does Not Dream of a Sister Venturing Out](https://anilist.co/anime/154967) (17:20 29 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
