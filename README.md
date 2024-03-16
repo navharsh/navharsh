@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Ninja Kamui](https://anilist.co/anime/151639) (20:25 16 March 2024)
+-   📺 Watched episode 9 - 10 of [Solo Leveling](https://anilist.co/anime/151807) (19:47 16 March 2024)
 -   📺 Watched episode 1 of [Ninja Kamui](https://anilist.co/anime/151639) (21:44 03 March 2024)
 -   📺 Watched episode 8 of [Solo Leveling](https://anilist.co/anime/151807) (18:06 02 March 2024)
 -   📺 Completed [maboroshi](https://anilist.co/anime/136149) (19:46 28 February 2024)
--   📺 Watched episode 7 of [Solo Leveling](https://anilist.co/anime/151807) (13:02 20 February 2024)
--   📺 Watched episode 6 of [Solo Leveling](https://anilist.co/anime/151807) (19:35 14 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
