@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 126 - 144 of [[Oshi no Ko]](https://anilist.co/manga/117195) (20:33 25 March 2024)
+-   📖 Completed [[Oshi no Ko]: interlude](https://anilist.co/manga/168162) (19:36 25 March 2024)
+-   📖 Read chapter 2 - 3 of [[Oshi no Ko]: interlude](https://anilist.co/manga/168162) (19:36 25 March 2024)
+-   📖 Read chapter 1 - 37 of [The Swordmaster's Son](https://anilist.co/manga/149332) (19:30 25 March 2024)
 -   📺 Watched episode 11 of [Solo Leveling](https://anilist.co/anime/151807) (17:29 23 March 2024)
--   📺 Watched episode 2 of [Ninja Kamui](https://anilist.co/anime/151639) (20:25 16 March 2024)
--   📺 Watched episode 9 - 10 of [Solo Leveling](https://anilist.co/anime/151807) (19:47 16 March 2024)
--   📺 Watched episode 1 of [Ninja Kamui](https://anilist.co/anime/151639) (21:44 03 March 2024)
--   📺 Watched episode 8 of [Solo Leveling](https://anilist.co/anime/151807) (18:06 02 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
