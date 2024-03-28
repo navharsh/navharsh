@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Reaper](https://anilist.co/manga/153432) (14:38 28 March 2024)
+-   📖 Read chapter 38 - 104 of [The Swordmaster's Son](https://anilist.co/manga/149332) (14:37 28 March 2024)
 -   📖 Read chapter 126 - 144 of [[Oshi no Ko]](https://anilist.co/manga/117195) (20:33 25 March 2024)
 -   📖 Completed [[Oshi no Ko]: interlude](https://anilist.co/manga/168162) (19:36 25 March 2024)
 -   📖 Read chapter 2 - 3 of [[Oshi no Ko]: interlude](https://anilist.co/manga/168162) (19:36 25 March 2024)
--   📖 Read chapter 1 - 37 of [The Swordmaster's Son](https://anilist.co/manga/149332) (19:30 25 March 2024)
--   📺 Watched episode 11 of [Solo Leveling](https://anilist.co/anime/151807) (17:29 23 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
