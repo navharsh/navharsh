@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 145 of [[Oshi no Ko]](https://anilist.co/manga/117195) (21:30 03 April 2024)
 -   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (18:08 03 April 2024)
 -   📖 Read chapter 105 of [The Swordmaster's Son](https://anilist.co/manga/149332) (19:23 02 April 2024)
 -   📺 Plans to watch [Shangri-La Frontier](https://anilist.co/anime/151970) (13:15 02 April 2024)
 -   📖 Plans to read [The Reaper](https://anilist.co/manga/153432) (14:38 28 March 2024)
--   📖 Read chapter 38 - 104 of [The Swordmaster's Son](https://anilist.co/manga/149332) (14:37 28 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
