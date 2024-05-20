@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (20:53 20 May 2024)
 -   📺 Completed [The Summer](https://anilist.co/anime/139751) (09:51 15 May 2024)
 -   📖 Read chapter 111 of [The Swordmaster's Son](https://anilist.co/manga/149332) (20:28 13 May 2024)
 -   📺 Watched episode 1 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (20:21 12 May 2024)
 -   📖 Read chapter 109 - 110 of [The Swordmaster's Son](https://anilist.co/manga/149332) (14:08 05 May 2024)
--   📖 Read chapter 146 of [[Oshi no Ko]](https://anilist.co/manga/117195) (23:25 20 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
