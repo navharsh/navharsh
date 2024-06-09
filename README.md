@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (20:00 09 June 2024)
 -   📖 Read chapter 113 - 114 of [The Swordmaster's Son](https://anilist.co/manga/149332) (22:59 04 June 2024)
 -   📺 Watched episode 4 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (22:59 04 June 2024)
 -   📺 Watched episode 5 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (22:59 04 June 2024)
 -   📺 Completed [HAIKYU!! The Dumpster Battle](https://anilist.co/anime/153658) (01:54 02 June 2024)
--   📺 Watched episode 1 - 4 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (21:04 28 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
