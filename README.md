@@ -49,7 +49,7 @@
 ## 🧑🏻‍💻Recent Activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/navharsh/Clg-notes/pull/1) in [navharsh/Clg-notes](https://github.com/navharsh/Clg-notes)
+1. 🎉 Merged PR [#2](https://github.com/navharsh/PicaBook/pull/2) in [navharsh/PicaBook](https://github.com/navharsh/PicaBook)
 2. 💪 Opened PR [#1](https://github.com/navharsh/Clg-notes/pull/1) in [navharsh/Clg-notes](https://github.com/navharsh/Clg-notes)
 3. ❗ Opened issue [#1](https://github.com/OpenCodeEra/.github/issues/1) in [OpenCodeEra/.github](https://github.com/OpenCodeEra/.github)
 4. 🗣 Commented on [#1250](https://github.com/rupali-codes/LinksHub/issues/1250#issuecomment-1636662475) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
