@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 117 of [The Swordmaster's Son](https://anilist.co/manga/149332) (01:07 25 June 2024)
 -   📺 Watched episode 7 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (22:10 23 June 2024)
 -   📺 Completed [The Greatest Demon Lord Is Reborn as a Typical Nobody](https://anilist.co/anime/130586) (21:19 20 June 2024)
 -   📖 Read chapter 115 - 116 of [The Swordmaster's Son](https://anilist.co/manga/149332) (03:41 17 June 2024)
 -   📺 Watched episode 6 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (23:48 16 June 2024)
--   📺 Watched episode 7 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (02:14 16 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
