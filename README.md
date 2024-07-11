@@ -60,11 +60,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (19:05 07 July 2024)
--   📺 Watched episode 1 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (18:15 06 July 2024)
--   📺 Watched episode 8 - 9 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (17:26 06 July 2024)
--   📖 Read chapter 118 - 119 of [The Swordmaster's Son](https://anilist.co/manga/149332) (17:09 06 July 2024)
--   📺 Completed [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (17:08 06 July 2024)
+-   📺 Plans to watch [Play It Cool, Guys](https://anilist.co/anime/147885) (22:56 10 July 2024)
+-   📺 Plans to watch [Violet Evergarden](https://anilist.co/anime/21827) (22:56 10 July 2024)
+-   📺 Plans to watch [Kimi ni Todoke: From Me to You](https://anilist.co/anime/6045) (22:55 10 July 2024)
+-   📺 Plans to watch [Skip and Loafer](https://anilist.co/anime/141911) (22:55 10 July 2024)
+-   📺 Watched episode 2 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (22:55 10 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
