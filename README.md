@@ -57,9 +57,9 @@ I am passionate about building innovative web applications and continuously impr
 </p>
 
 ## 🧑🏻‍💻 Recent Activity:
+
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
