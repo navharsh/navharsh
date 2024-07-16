@@ -1,15 +1,12 @@
 ## Hi 👋, I'm Navharsh
-### 📝 About Me:
 
+
+### 📝 About Me:
 
 - I'm a 21-year-old web developer learning on my own and doing my first year of a Master's in Computer Applications (MCA).
 - When I'm not coding, I love reading books, listening to all kinds of music, and watching anime.
 - I'm really into technology and always try to keep up with the latest development trends.
 - I like to contribute to open-source projects and team up with other developers to create awesome software.
-
-
-### 🌟 What Drives Me:
-I am passionate about building innovative web applications and continuously improving my skills. My journey as a web developer started from curiosity and has grown into a fulfilling career path. I love solving problems and creating user-friendly experiences.
 
 <!--
 ## 🛠️ Key Projects:
