@@ -67,11 +67,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (20:19 17 July 2024)
 -   📺 Rewatched episode 1 - 8 of [Guilty Crown](https://anilist.co/anime/10793) (03:31 15 July 2024)
 -   📺 Watched episode 10 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (18:55 14 July 2024)
 -   📺 Plans to watch [Play It Cool, Guys](https://anilist.co/anime/147885) (22:56 10 July 2024)
 -   📺 Plans to watch [Violet Evergarden](https://anilist.co/anime/21827) (22:56 10 July 2024)
--   📺 Plans to watch [Kimi ni Todoke: From Me to You](https://anilist.co/anime/6045) (22:55 10 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
