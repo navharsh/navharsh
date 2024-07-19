@@ -67,11 +67,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 58 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (11:31 19 July 2024)
+-   📖 Read chapter 120 of [The Swordmaster's Son](https://anilist.co/manga/149332) (11:30 19 July 2024)
+-   📺 Watched episode 2 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (11:24 19 July 2024)
 -   📺 Watched episode 3 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (20:19 17 July 2024)
 -   📺 Rewatched episode 1 - 8 of [Guilty Crown](https://anilist.co/anime/10793) (03:31 15 July 2024)
--   📺 Watched episode 10 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (18:55 14 July 2024)
--   📺 Plans to watch [Play It Cool, Guys](https://anilist.co/anime/147885) (22:56 10 July 2024)
--   📺 Plans to watch [Violet Evergarden](https://anilist.co/anime/21827) (22:56 10 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
