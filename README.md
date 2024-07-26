@@ -67,11 +67,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (10:00 26 July 2024)
 -   📺 Watched episode 4 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (22:51 25 July 2024)
 -   📖 Read chapter 270 - 574 of [The Devil Butler](https://anilist.co/manga/116353) (03:07 25 July 2024)
 -   📖 Read chapter 1 - 269 of [The Devil Butler](https://anilist.co/manga/116353) (15:58 23 July 2024)
 -   📺 Watched episode 3 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (13:59 22 July 2024)
--   📖 Read chapter 121 of [The Swordmaster's Son](https://anilist.co/manga/149332) (14:35 21 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
