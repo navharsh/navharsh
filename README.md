@@ -67,11 +67,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 123 of [The Swordmaster's Son](https://anilist.co/manga/149332) (23:33 04 August 2024)
+-   📖 Read chapter 105 - 106 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (23:27 04 August 2024)
+-   📖 Read chapter 578 - 580 of [The Devil Butler](https://anilist.co/manga/116353) (23:27 04 August 2024)
+-   📺 Watched episode 12 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (23:18 04 August 2024)
 -   📺 Watched episode 5 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (19:18 02 August 2024)
--   📺 Watched episode 4 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (21:26 29 July 2024)
--   📖 Read chapter 576 - 577 of [The Devil Butler](https://anilist.co/manga/116353) (07:44 28 July 2024)
--   📖 Read chapter 103 - 104 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (07:36 28 July 2024)
--   📖 Read chapter 122 of [The Swordmaster's Son](https://anilist.co/manga/149332) (07:36 28 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
