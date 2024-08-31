@@ -67,11 +67,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 14 - 15 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (23:01 31 August 2024)
+-   📺 Watched episode 9 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (22:31 31 August 2024)
 -   📺 Watched episode 8 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (07:01 23 August 2024)
 -   📺 Completed [A Girl & Her Guard Dog](https://anilist.co/anime/155527) (23:37 18 August 2024)
 -   📺 Watched episode 1 - 12 of [A Girl & Her Guard Dog](https://anilist.co/anime/155527) (23:37 18 August 2024)
--   📺 Watched episode 7 of [FAIRY TAIL 100 YEARS QUEST](https://anilist.co/anime/139095) (19:03 18 August 2024)
--   📖 Read chapter 110 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (17:47 18 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
