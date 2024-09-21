@@ -67,11 +67,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 245 of [My Wife is the Demon Queen](https://anilist.co/manga/107966) (11:37 16 September 2024)
--   📖 Read chapter 31 of [Quan Min Mo Ri: Wo, Bingdu Jun Wang](https://anilist.co/manga/177363) (11:24 16 September 2024)
--   📖 Read chapter 117 - 118 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (11:24 16 September 2024)
--   📖 Read chapter 129 of [The Swordmaster's Son](https://anilist.co/manga/149332) (11:24 16 September 2024)
--   📖 Read chapter 596 - 599 of [The Devil Butler](https://anilist.co/manga/116353) (08:20 16 September 2024)
+-   📖 Read chapter 119 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (20:16 21 September 2024)
+-   📖 Read chapter 130 of [The Swordmaster's Son](https://anilist.co/manga/149332) (20:16 21 September 2024)
+-   📖 Read chapter 600 of [The Devil Butler](https://anilist.co/manga/116353) (20:16 21 September 2024)
+-   📺 Watched episode 17 - 18 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (20:16 21 September 2024)
+-   📺 Watched episode 10 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (20:16 21 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
