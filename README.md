@@ -67,11 +67,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 604 of [The Devil Butler](https://anilist.co/manga/116353) (04:51 30 September 2024)
 -   📖 Read chapter 120 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (18:15 28 September 2024)
 -   📖 Read chapter 131 of [The Swordmaster's Son](https://anilist.co/manga/149332) (18:15 28 September 2024)
 -   📖 Read chapter 602 - 603 of [The Devil Butler](https://anilist.co/manga/116353) (18:14 28 September 2024)
 -   📺 Watched episode 19 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (18:14 28 September 2024)
--   📖 Read chapter 601 of [The Devil Butler](https://anilist.co/manga/116353) (19:27 23 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
