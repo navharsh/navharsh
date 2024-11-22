@@ -57,7 +57,7 @@
 ## 🧑🏻‍💻 Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/navharsh/PicaBook/pull/3) in [navharsh/PicaBook](https://github.com/navharsh/PicaBook)
+1. 🎉 Merged PR [#5](https://github.com/navharsh/PicaBook/pull/5) in [navharsh/PicaBook](https://github.com/navharsh/PicaBook)
 2. 🎉 Merged PR [#4](https://github.com/navharsh/PicaBook/pull/4) in [navharsh/PicaBook](https://github.com/navharsh/PicaBook)
 3. 🎉 Merged PR [#1](https://github.com/navharsh/PicaBook/pull/1) in [navharsh/PicaBook](https://github.com/navharsh/PicaBook)
 4. 🎉 Merged PR [#2](https://github.com/navharsh/PicaBook/pull/2) in [navharsh/PicaBook](https://github.com/navharsh/PicaBook)
