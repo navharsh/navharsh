@@ -63,11 +63,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 148 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (10:08 13 January 2025)
 -   📖 Read chapter 146 of [The Swordmaster's Son](https://anilist.co/manga/149332) (00:17 12 January 2025)
 -   📖 Plans to read [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (00:17 12 January 2025)
 -   📺 Completed [Oshi no Ko Season 2](https://anilist.co/anime/166531) (00:17 12 January 2025)
 -   📺 Watched episode 11 - 12 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (00:17 12 January 2025)
--   📖 Read chapter 646 - 647 of [The Devil Butler](https://anilist.co/manga/116353) (00:14 12 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
