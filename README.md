@@ -63,11 +63,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:27 05 February 2025)
 -   📖 Read chapter 648 - 651 of [The Devil Butler](https://anilist.co/manga/116353) (18:03 30 January 2025)
 -   📖 Read chapter 147 - 148 of [The Swordmaster's Son](https://anilist.co/manga/149332) (18:03 30 January 2025)
 -   📺 Watched episode 3 - 4 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:02 30 January 2025)
 -   📖 Read chapter 148 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (10:08 13 January 2025)
--   📖 Read chapter 146 of [The Swordmaster's Son](https://anilist.co/manga/149332) (00:17 12 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
