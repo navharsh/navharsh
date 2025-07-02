@@ -63,11 +63,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 152 - 165 of [The Swordmaster's Son](https://anilist.co/manga/149332) (07:37 02 July 2025)
+-   📖 Read chapter 158 - 200 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (07:37 02 July 2025)
+-   📖 Read chapter 664 - 720 of [The Devil Butler](https://anilist.co/manga/116353) (07:37 02 July 2025)
 -   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (23:51 17 April 2025)
 -   📺 Completed [Mecha Ude: Mechanical Arms](https://anilist.co/anime/154673) (23:51 17 April 2025)
--   📺 Watched episode 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (17:48 22 March 2025)
--   📺 Watched episode 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (19:45 20 March 2025)
--   📺 Watched episode 10 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (13:51 12 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
