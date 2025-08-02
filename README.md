@@ -63,11 +63,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 107 of [Liliang Dian Man? Wo Ke Shi Wangling Fashi A!](https://anilist.co/manga/173384) (13:33 02 August 2025)
 -   📖 Read chapter 726 - 733 of [The Devil Butler](https://anilist.co/manga/116353) (02:49 01 August 2025)
 -   📖 Read chapter 721 - 725 of [The Devil Butler](https://anilist.co/manga/116353) (17:52 23 July 2025)
 -   📖 Read chapter 166 - 169 of [The Swordmaster's Son](https://anilist.co/manga/149332) (17:52 23 July 2025)
 -   📺 Completed [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (17:52 23 July 2025)
--   📖 Read chapter 152 - 165 of [The Swordmaster's Son](https://anilist.co/manga/149332) (07:37 02 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
