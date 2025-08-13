@@ -63,11 +63,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 201 - 204 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (07:03 13 August 2025)
+-   📖 Read chapter 734 - 735 of [The Devil Butler](https://anilist.co/manga/116353) (07:03 13 August 2025)
+-   📖 Read chapter 170 of [The Swordmaster's Son](https://anilist.co/manga/149332) (07:03 13 August 2025)
 -   📺 Rewatched 22 of [Guilty Crown](https://anilist.co/anime/10793) (00:42 06 August 2025)
 -   📖 Read chapter 107 of [Liliang Dian Man? Wo Ke Shi Wangling Fashi A!](https://anilist.co/manga/173384) (13:33 02 August 2025)
--   📖 Read chapter 726 - 733 of [The Devil Butler](https://anilist.co/manga/116353) (02:49 01 August 2025)
--   📖 Read chapter 721 - 725 of [The Devil Butler](https://anilist.co/manga/116353) (17:52 23 July 2025)
--   📖 Read chapter 166 - 169 of [The Swordmaster's Son](https://anilist.co/manga/149332) (17:52 23 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
