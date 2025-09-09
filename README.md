@@ -63,11 +63,11 @@
 ## ✨ My AniList Activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Food Wars! The Fifth Plate](https://anilist.co/anime/114043) (21:22 09 September 2025)
+-   📺 Completed [Food Wars! The Fourth Plate](https://anilist.co/anime/109963) (21:22 09 September 2025)
+-   📺 Completed [Food Wars! The Third Plate](https://anilist.co/anime/99255) (21:22 09 September 2025)
 -   📺 Completed [Food Wars! The Second Plate](https://anilist.co/anime/21518) (20:06 07 September 2025)
 -   📺 Completed [Food Wars!](https://anilist.co/anime/20923) (22:00 05 September 2025)
--   📖 Read chapter 201 - 204 of [Necromancer, the Ultimate Scourge!](https://anilist.co/manga/167372) (07:03 13 August 2025)
--   📖 Read chapter 734 - 735 of [The Devil Butler](https://anilist.co/manga/116353) (07:03 13 August 2025)
--   📖 Read chapter 170 of [The Swordmaster's Son](https://anilist.co/manga/149332) (07:03 13 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
