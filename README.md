@@ -3,17 +3,12 @@
 
 ### 📝 About Me:
 
-- I'm a 22-year-old web and android developer, learning things on my own and in my final year of Master's in Computer Applications (MCA).
-- When I'm not coding, I love reading books, listening to all kinds of music, and watching anime.
-- I'm really into technology and always try to keep up with the latest development trends.
-- I like to contribute to open-source projects and team up with other developers to create awesome software.
+- 👨‍💻 I’m a 22-year-old **Web and Android Developer**, currently working at **Infosys** as an SE.  
+- 🎓 I’ve completed my **Master’s in Computer Applications (MCA)**.  
+- 🚀 I’m passionate about **technology** and love keeping up with the latest **development trends**.  
+- 🤝 I enjoy contributing to **open-source projects** and collaborating with other developers to create awesome software.  
+- 📚 Outside of coding, I enjoy **reading books**, 🎧 **listening to all kinds of music**, and 🎥 **watching anime**.
 
-<!--
-## 🛠️ Key Projects:
-- **[Project Name](https://github.com/navharsh/project-link)**: Short description of what this project does and any key features.
-- **[Another Project](https://github.com/navharsh/another-project-link)**: Brief overview of this project and its highlights.
-- **[Yet Another Project](https://github.com/navharsh/yet-another-project-link)**: A summary of the project's purpose and technologies used.
--->
 ## 🎧 Currently Playing :
   [![Spotify](https://nav-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=4e334e)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s)
 
@@ -54,26 +49,8 @@
   <img height="45%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=navharsh&theme=github_dark&hide_border=true&bg_color=00000000" alt="navharsh" />
 </p>
 
-<!--
-## 🧑🏻‍💻 Recent Activity: -->
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity--> 
-
-## ✨ My AniList Activity:
-<!-- ANILIST_ACTIVITY:start -->
-
--   📺 Completed [Food Wars! The Fifth Plate](https://anilist.co/anime/114043) (21:22 09 September 2025)
--   📺 Completed [Food Wars! The Fourth Plate](https://anilist.co/anime/109963) (21:22 09 September 2025)
--   📺 Completed [Food Wars! The Third Plate](https://anilist.co/anime/99255) (21:22 09 September 2025)
--   📺 Completed [Food Wars! The Second Plate](https://anilist.co/anime/21518) (20:06 07 September 2025)
--   📺 Completed [Food Wars!](https://anilist.co/anime/20923) (22:00 05 September 2025)
-
-<!-- ANILIST_ACTIVITY:end -->
 
 ## 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navharsh)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/navharsh_)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@navharsh.com)
-
-[![](https://visitcount.itsvg.in/api?id=navharsh&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
