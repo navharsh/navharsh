@@ -3,14 +3,14 @@
 
 ### 📝 About Me:
 
-- 👨‍💻 I’m a 22-year-old **Web and Android Developer**, currently working at **Infosys** as an SE.  
+- 👨‍💻 I’m a 24-year-old **Web and Android Developer**, currently working at **Infosys** as an SE.  
 - 🎓 I’ve completed my **Master’s in Computer Applications (MCA)**.  
 - 🚀 I’m passionate about **technology** and love keeping up with the latest **development trends**.  
 - 🤝 I enjoy contributing to **open-source projects** and collaborating with other developers to create awesome software.  
 - 📚 Outside of coding, I enjoy **reading books**, 🎧 **listening to all kinds of music**, and 🎥 **watching anime**.
-
+<!--
 ## 🎧 Currently Playing :
-  [![Spotify](https://nav-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=4e334e)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s)
+  [![Spotify](https://nav-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=4e334e)](https://open.spotify.com/user/chwmd7jiqjx7cqlnc1rfzri7s) -->
 
 ## 💻 Software & Technologies:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -37,18 +37,17 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&logoSize=amd)
-
+<!--  
 ## 📊 My Statistics:
 <div align="center">
   <img src="https://raw.githubusercontent.com/navharsh/navharsh/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
+</div> 
 <p align="center">
   <img height="50%" width="auto" src="https://nav-readme.vercel.app/api?username=navharsh&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=contribs&rank_icon=github&bg_color=00000000">
   <img height="50%" width="auto" src="https://nav-readme.vercel.app/api/top-langs/?username=navharsh&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=6">
   <img height="45%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=navharsh&theme=github_dark&hide_border=true&bg_color=00000000" alt="navharsh" />
 </p>
-
+-->
 
 ## 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navharsh)
